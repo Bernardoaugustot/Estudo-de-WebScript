@@ -1,0 +1,20 @@
+Porra o feijão com arroz:
+
+Usar o JupterNotebook para executar melhor as paradas:
+Fazer com foco no Google crohme
+> Webdriver
+chromeDriver do googlebrow -> Baixar aqui: https://chromedriver.chromium.org/downloads
+
+
+Selenium tem que ta instalado
+comando: 
+pip instal Selenium
+installed pip-23.1.2
+
+
+
+
+
+
+Musica tocando: 
+https://www.youtube.com/watch?v=-O87MsdyY-g  estranha mas legal, vibe de bandinha Background.
